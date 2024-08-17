@@ -1,0 +1,7 @@
+C:\DemoCopilot\EDA Events\bin\Debug\EDA Events.exe.config
+C:\DemoCopilot\EDA Events\bin\Debug\EDA Events.exe
+C:\DemoCopilot\EDA Events\bin\Debug\EDA Events.pdb
+C:\DemoCopilot\EDA Events\obj\Debug\EDA Events.csproj.AssemblyReference.cache
+C:\DemoCopilot\EDA Events\obj\Debug\EDA Events.csproj.CoreCompileInputs.cache
+C:\DemoCopilot\EDA Events\obj\Debug\EDA Events.exe
+C:\DemoCopilot\EDA Events\obj\Debug\EDA Events.pdb
